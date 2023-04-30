@@ -5,7 +5,7 @@ Installation
 To install the app, follow these steps:
 
 Clone the project repository from GitHub to your local machine.
-
+https://github.com/Abhijais2003/CSE310_JAVA_Project.git
 
 
 Open the project in Android Studio by selecting "Open an existing Android Studio project" from the welcome screen and navigating to the directory where you cloned the project.
