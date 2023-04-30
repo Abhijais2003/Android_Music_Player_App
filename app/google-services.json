@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53513366133",
+    "project_id": "login-pages-1201c",
+    "storage_bucket": "login-pages-1201c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53513366133:android:85d10969a498eac04d263c",
+        "android_client_info": {
+          "package_name": "com.abhishek_jaiswal.mymusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53513366133-6emq20nuo0aijo7mhgalgrpahje2m4g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH4olWLHVI1cO0NQOV9sGvbvYpYpOmD8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53513366133-6emq20nuo0aijo7mhgalgrpahje2m4g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
